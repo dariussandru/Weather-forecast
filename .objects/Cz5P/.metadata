@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Calendar - darius.sandru@stud.ubbcluj.ro - Outlook",
+  "Type": "App",
+  "Id": "Cz5PRSvJ2k611h6DiL2LCQ",
+  "Reference": "70zO5QaO3kCriTa9SQW6sA/Cz5PRSvJ2k611h6DiL2LCQ",
+  "Created": "2024-01-10T21:07:29.094882Z",
+  "Updated": "2024-01-10T21:07:29.094882Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

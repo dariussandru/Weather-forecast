@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BZ8_tT4R2k-zilOIEzvFXA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="9, 1, 1280, 1000" DesignTimeScaleFactor="1.25" FriendlyName="'NavigationNew event'" FullSelectorArgument="&lt;uia automationid='Silhouette' role='pane' /&gt;" FuzzySelectorArgument="&lt;uia automationid='Silhouette' role='pane' check:fulltext='Navigation&amp;#xA;New event&amp;#x9;&amp;#xA;January 2024&amp;#xA;Go back a month&amp;#xA;Go forward a month&amp;#xA;7&amp;#x9;&amp;#xA;8&amp;#x9;&amp;#xA;9&amp;#x9;&amp;#xA;10&amp;#x9;&amp;#xA;11&amp;#x9;&amp;#xA;12&amp;#x9;&amp;#xA;13&amp;#x9;&amp;#xA;14&amp;#x9;' /&gt;" Guid="d3563322-9994-41c5-b4aa-f65e6ddffc1a" ScopeSelectorArgument="&lt;wnd app='applicationframehost.exe' appid='microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.calendar' title='Month View ‎- Calendar' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="9, 41, 60, 60" ElementType="Button" FriendlyName="'Navigation'" FullSelectorArgument="&lt;uia automationid='NavigationButton' cls='ExpandCollapseButton' name='Navigation' /&gt;" FuzzySelectorArgument="&lt;uia automationid='NavigationButton' cls='ExpandCollapseButton' name='Navigation' role='button' check:fulltext='Navigation' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEHSURBVHhe7dU9CsJAFEVhN5K4gKzOn94lWWqSbVhY2Yu19ZgIosItNPOeJrwzcAoJescPxFl3UlVVqVjsQgYAAAAAAAAAAAAgH0YIAACcAcrl/uPU+70DAAAAABgNQJ/6DM8GAaiL/zp1ryEBAAAAANwB1EiE3ACaw9k0tWGRG8DpcjVNbVjkBjCVAHgC1CF7AWhC5gaw2R5NUxsWuQFYH7VhkRvAVAIAAADiAsxXrR+A9VEbubkCqP/ynNRGbq4AU+gNoH8RMQAAAAAAAAAAAAD5MEIAeAOU6zYVLjVddXYAAAAAAAAAAIAnQH9Rj/QX+rYfAejxMQTAA0D/ziwCoEuP/7863QDeBZSSgQljCQAAAABJRU5ErkJggg==" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4948701d7a1a18447c90c493df6de14c.png" xmlns="">0iKY5OHYIkkmcsklRn0t3vg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

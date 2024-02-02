@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Start time",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "Et-1JJ1fP02-CMQITuFgUQ",
+  "Reference": "70zO5QaO3kCriTa9SQW6sA/Et-1JJ1fP02-CMQITuFgUQ",
+  "ParentRef": "70zO5QaO3kCriTa9SQW6sA/rnvQtfrnFE2UoleRClfU-w",
+  "Created": "2024-01-10T21:20:57.7424537Z",
+  "Updated": "2024-01-10T21:20:57.7424537Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

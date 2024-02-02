@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XDAxRvulf0iaYtnVYCzqbg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="248, 351, 1155, 49" DesignTimeScaleFactor="1.25" ElementType="InputBox" FriendlyName="'edit Location'" FullSelectorArgument="&lt;uia automationid='4111' cls='RichEdit20WPT' name='Location' /&gt;" FuzzySelectorArgument="&lt;uia automationid='4111' cls='RichEdit20WPT' name='Location' role='edit' /&gt;" Guid="ed97a801-ddc3-4255-9df0-bebde5460a8f" ScopeSelectorArgument="&lt;wnd app='outlook.exe' cls='rctrl_renwnd32' title='Cros - Event  ' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="53123935ff8c20be2cd2e1b064e2815a.png" xmlns="">0MVtpZ4Tj_0yBh2vH76UFcA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

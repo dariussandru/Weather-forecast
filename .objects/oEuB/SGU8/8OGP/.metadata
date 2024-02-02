@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Month View ‎- Calendar",
+  "Type": "Screen",
+  "Id": "8OGPLYO84UabGvV51Gvpww",
+  "Reference": "70zO5QaO3kCriTa9SQW6sA/8OGPLYO84UabGvV51Gvpww",
+  "ParentRef": "70zO5QaO3kCriTa9SQW6sA/SGU81RsiXEum9IaZO3x99w",
+  "Created": "2024-01-10T19:38:55.562297Z",
+  "Updated": "2024-01-10T19:38:55.562297Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

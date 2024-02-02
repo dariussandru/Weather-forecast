@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Calendar - darius.sandru@stud.ubbcluj.ro - Outlook",
+  "Type": "Screen",
+  "Id": "rnvQtfrnFE2UoleRClfU-w",
+  "Reference": "70zO5QaO3kCriTa9SQW6sA/rnvQtfrnFE2UoleRClfU-w",
+  "ParentRef": "70zO5QaO3kCriTa9SQW6sA/hmIq-hdNHEmer_u2Sr6ROw",
+  "Created": "2024-01-10T21:07:29.1218107Z",
+  "Updated": "2024-01-10T21:07:29.1218107Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7VkCALNEDUqqDUfN8g535Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="248, 201, 1155, 51" DesignTimeScaleFactor="1.25" ElementType="InputBox" FriendlyName="'edit Title'" FullSelectorArgument="&lt;uia automationid='4100' cls='RichEdit20WPT' name='Title' /&gt;" FuzzySelectorArgument="&lt;uia automationid='4100' cls='RichEdit20WPT' name='Title' role='edit' /&gt;" Guid="1b7c488d-1ff5-431f-b7ff-87bc4e535fdd" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='outlook.exe' cls='rctrl_renwnd32' title='Untitled - Appointment  ' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="166, 217, 31, 15" CvTextArgument="Title" CvType="Text" DesignTimeRectangle="133, 216, 100, 20" ElementType="Text" FriendlyName="'Title'" FullSelectorArgument="&lt;uia automationid='4534' cls='Static' name='Title' /&gt;" FuzzySelectorArgument="&lt;uia automationid='4534' cls='Static' name='Title' role='text' check:fulltext='Title' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAGgAAAAYCAYAAAAWPrhgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADnSURBVGhD7ZbRDcMgDES7M2swBlswBlMwhRtcogAJbaRWzQXuSf5AueSDJ9t5CIGGgsChIHAoCBwKAoeCwKEgcCAFBWfEmE65UGScvE7HpIz1MZ/uCXwHqYgs5S3BibFeSh0U9AcoCJyeoPLyNdMZg62g6G2RtYLubwhByokOUjllJr3zYY9dzUSCgrhdx0Tx1siZCXoV8wjSbllHW10U9AW/FYQ9zo6YR1D0Ym/wU9AylqCmQ9qMfqvKLDvI1VLRGEdQuuxl4eteyfl9ZpW0VfscDXhBs0NB4FAQOBQEDgWBQ0HQiDwBAT1RQrl2AJAAAAAASUVORK5CYII=" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="5c3f386429cff0f642a9eceeaf08c065.png" xmlns="">064EkZoi8N06Mg-q6w7niVA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

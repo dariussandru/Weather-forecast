@@ -1,0 +1,14 @@
+﻿{
+  "Name": "All day",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "r2LqlCQWck-R7pOjD33dUw",
+  "Reference": "70zO5QaO3kCriTa9SQW6sA/r2LqlCQWck-R7pOjD33dUw",
+  "ParentRef": "70zO5QaO3kCriTa9SQW6sA/rnvQtfrnFE2UoleRClfU-w",
+  "Created": "2024-01-10T21:21:04.8511177Z",
+  "Updated": "2024-01-10T21:21:04.8511177Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=23.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OErj9JrQwEKy5IkNs24y-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="246, 260, 191, 38" CvType="InputBox" DesignTimeRectangle="248, 262, 153, 36" DesignTimeScaleFactor="1.25" ElementType="InputBox" FriendlyName="'Wed 12/13/2023'" FullSelectorArgument="&lt;uia automationid='4098' cls='RichEdit20WPT' name='Start date, combo' /&gt;" FuzzySelectorArgument="&lt;uia automationid='4098' cls='RichEdit20WPT' name='Start date, combo' role='edit' /&gt;" Guid="fc905417-3d74-4e72-8841-2261b612f6d6" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='outlook.exe' cls='rctrl_renwnd32' title='Untitled - Appointment  ' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvTextArea="148, 272, 67, 15" CvTextArgument="Start time" CvType="Text" DesignTimeRectangle="133, 270, 100, 20" ElementType="Text" FriendlyName="'Start time'" FullSelectorArgument="&lt;uia automationid='4513' cls='Static' name='Start time' /&gt;" FuzzySelectorArgument="&lt;uia automationid='4513' cls='Static' name='Start time' role='text' check:fulltext='Start time' /&gt;" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8c538547fb99644c7afd573b57244277.png" xmlns="">0wyPYUfrT_0aM-Uv5EEEMtw</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QP8Kxu6xmkakfkKuTlx5UA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CvElementArea="603, 269, 19, 19" CvTextArea="625, 272, 48, 17" CvTextArgument="All day" CvType="CheckBox" DesignTimeRectangle="599, 265, 78, 30" DesignTimeScaleFactor="1.25" ElementType="CheckBox" FriendlyName="'All day'" FullSelectorArgument="&lt;uia automationid='4226' cls='Button' name='All day' /&gt;" FuzzySelectorArgument="&lt;uia automationid='4226' cls='Button' name='All day' role='check box' check:fulltext='All day' /&gt;" Guid="94f7ed57-5f7a-4a84-b05b-63ea90cb5114" ScopeSelectorArgument="&lt;wnd app='outlook.exe' cls='rctrl_renwnd32' title='Cros - Appointment  ' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="35cbf4f8441ced4d849ed829c17e8f94.png" xmlns="">0WLJa1gERYEi18mv8F0OraQ</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
